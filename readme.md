@@ -1,6 +1,4 @@
 # 从零开始的 JSON 库教程
-
-* Milo Yip
 * 2016/9/15
 
 也许有很多同学上过 C/C++ 的课后，可以完成一些简单的编程练习，又能在一些网站刷题，但对于如何开发有实际用途的程序可能感到束手无策。本教程希望能以一个简单的项目开发形式，让同学能逐步理解如何从无到有去开发软件。
@@ -32,7 +30,7 @@
 * 断言
 * Unicode
 * 浮点数
-* Github、CMake、valgrind、Doxygen 等工具
+* Github、CMake、valgrind、Doxygen 等工具项目 fork 一个自己的版本，然
 
 ## 教程大纲
 
@@ -48,6 +46,3 @@
 8. [访问与其他功能](tutorial08/tutorial08.md)（2018/6/2 完成）：JSON array／object 的访问及修改。练习完成相关功能。
 9. 终点及新开始：加入 nativejson-benchmark 测试，与 RapidJSON 对比及展望。
 
-## 关于作者
-
-叶劲峰（Milo Yip）现任腾讯 T4 专家、互动娱乐事业群魔方工作室群游戏客户端技术总监。他获得香港大学认知科学学士（BCogSc）、香港中文大学系统工程及工程管理哲学硕士（MPhil）。他是《游戏引擎架构》译者、《C++ Primer 中文版（第五版）》审校。他曾参与《天涯明月刀》、《斗战神》、《爱丽丝：疯狂回归》、《美食从天降》、《王子传奇》等游戏项目，以及多个游戏引擎及中间件的研发。他是开源项目 [RapidJSON](https://github.com/miloyip/rapidjson) 的作者，开发 [nativejson-benchmark](https://github.com/miloyip/nativejson-benchmark) 比较 41 个开源原生 JSON 库的标准符合程度及性能。他在 1990 年学习 C 语言，1995 年开始使用 C++ 于各种项目。
